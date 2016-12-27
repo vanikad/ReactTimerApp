@@ -30,7 +30,6 @@ var {IndexLink, Link} = require('react-router');
         </div>
       )
     }
-
   });
 
   module.exports = Navigation;
